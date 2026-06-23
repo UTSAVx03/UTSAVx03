@@ -83,9 +83,9 @@ NLP-based healthcare assistant mapping patient symptoms to Ayurvedic treatments,
 
 ## 🏅 Certifications
 
-- Oracle Cloud Infrastructure 2025 — [Architect Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=102342896OCI25CAA)
-- Oracle Cloud Infrastructure 2025 — [Data Science Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=102342896OCI25DSOCP)
-- Oracle Cloud Infrastructure 2025 — [AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=501B69EE5068B511586ADC9E75D2E502FDF3ACBAAF68FEE3FBE0624D3B5173DE)
+- Oracle Cloud Infrastructure 2025 
+- Oracle Cloud Infrastructure 2025 
+- Oracle Cloud Infrastructure 2025
 - Microsoft Learn — AI Skills Challenge
 
 <br/>
