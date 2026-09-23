@@ -1,393 +1,340 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1f2e,100:0D1117&height=180&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=245&section=header&text=UTSAV%20KUMAR&fontSize=58&fontAlignY=42&fontColor=00FFB7&desc=System%20Engineer%20%C3%97%20Cloud%20Infrastructure%20%C3%97%20Linux&descAlignY=66&descSize=22&color=gradient&customColorList=6,7,8,9,10" width="100%"/>
 
-<h1>UTSAV KUMAR</h1>
-
-<h3>System Engineer · Cloud &amp; Infrastructure</h3>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=560&height=45&lines=System+Engineer+%40+Reliance+Jio+Infocomm;RHEL+%E2%80%A2+OpenStack+%E2%80%A2+OCI+%E2%80%A2+AWS;Building+infrastructure+that+stays+up" alt="typing animation"/>
-
-<br><br>
+<br>
 
 <a href="https://linkedin.com/in/utsav-kumar-cloud">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/>
 </a>
+&nbsp;
 <a href="https://github.com/UTSAVx03">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=00FFB7" height="32"/>
 </a>
+&nbsp;
 <a href="mailto:utsavkumar006@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=FF4B4B" height="32"/>
 </a>
-<a href="tel:+919661362051">
-<img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="32"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<h2>🧭 Profile</h2>
-
-<table>
-<tr>
-<td align="left">
-
-<pre>
-$ ./init.sh
-
-&gt; name      : Utsav Kumar
-&gt; role      : System Engineer (Cloud &amp; Infrastructure)
-&gt; company   : Reliance Jio Infocomm Limited
-&gt; location  : Mumbai, India
-&gt; education : BCA, Amity University Mumbai — CGPA 8.03/10
-&gt; status    : Employed · Open to collaboration
-
-&gt; track_record
-    deployed   : 250+ Dell PowerEdge enterprise servers
-    uptime     : 99%+ sustained across production fleet
-    migrated   : 100+ merchants to cloud apps @ 98% success rate
-</pre>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<h2>⚡ Tech Stack</h2>
-
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,redhat,aws,oracle,openstack,python,flask,bash,mysql,git,postman,selenium,figma&theme=dark"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<h2>💼 Experience</h2>
-
-<table width="90%">
-<tr>
-<td align="left">
-
-<h3>System Engineer · Reliance Jio Infocomm Limited</h3>
-
-<p>
-<b>via Skypro Technologies</b><br>
-<code>May 2026 – Present</code> · Navi Mumbai, India
-</p>
-
-<ul>
-<li>Administer RHEL 9.x production servers — users, groups and access control</li>
-<li>Manage packages and services using YUM, DNF and <code>systemctl</code></li>
-<li>Automate health checks, log rotation and alerting using Bash</li>
-<li>Handle disk, filesystem and storage administration</li>
-<li>Perform Linux system troubleshooting and network diagnostics</li>
-<li>Support production infrastructure operations and incident resolution</li>
-</ul>
-
-<hr>
-
-<h3>Resident Engineer · Reliance Jio Infocomm Limited</h3>
-
-<p>
-<b>via Pameesha Technologies Services</b><br>
-<code>Jul 2025 – May 2026</code> · Navi Mumbai, India
-</p>
-
-<ul>
-<li>Deployed <b>250+ Dell PowerEdge rack servers</b></li>
-<li>Handled cabling, BIOS, iDRAC and OS provisioning</li>
-<li>Improved server commissioning time by approximately <b>25%</b></li>
-<li>Led break-fix and firmware maintenance activities</li>
-<li>Sustained <b>99%+ uptime</b> across the production fleet</li>
-<li>Reduced escalation resolution time by approximately <b>30%</b> through Dell TAC coordination</li>
-<li>Acted as on-site SPOC between Dell, Wipro and Jio IT teams</li>
-<li>Maintained production SLAs with <b>zero SLA breaches</b></li>
-</ul>
-
-<hr>
-
-<h3>Merchant Success Engineer · Appstle Inc.</h3>
-
-<p>
-<b>Remote</b><br>
-<code>Aug 2024 – Apr 2025</code> · Menlo Park, CA
-</p>
-
-<ul>
-<li>Migrated <b>100+ merchants</b> to AWS-backed applications</li>
-<li>Achieved approximately <b>98% migration success</b></li>
-<li>Resolved <b>40+ bugs</b> through ClickUp-based workflows</li>
-<li>Reduced defects by approximately <b>30%</b></li>
-<li>Supported <b>250+ weekly merchant inquiries</b></li>
-<li>Maintained <b>95%+ CSAT</b></li>
-</ul>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<h2>🚀 Projects</h2>
-
-<table width="90%">
-<tr>
-<td align="left">
-
-<h3>☁️ OpenStack Private Cloud</h3>
-
-<p>
-<b>Self-Directed · Jan 2026</b>
-</p>
-
-<p>
-Single-node OpenStack deployment using DevStack on bare-metal Ubuntu.
-Configured core OpenStack services from the ground up with virtual networking
-and instance deployment.
-</p>
-
-<table>
-<tr>
-<td><b>Nova</b><br>Compute</td>
-<td><b>Neutron</b><br>Networking</td>
-<td><b>Glance</b><br>Images</td>
-<td><b>Keystone</b><br>Identity</td>
-</tr>
-</table>
-
-<br>
-
-<h3>📊 Infrastructure Monitoring &amp; Observability</h3>
-
-<p>
-Building an infrastructure monitoring stack around <b>Prometheus</b> and
-<b>Grafana</b> for system metrics, dashboards, infrastructure health and alerting.
-</p>
-
-<pre>
-Linux Servers
-      ↓
-    Metrics
-      ↓
-  Prometheus
-      ↓
-    Grafana
-      ↓
-Dashboards &amp; Alerts
-</pre>
-
-<h3>🌿 Ayurvedic Recommendation System</h3>
-
-<p>
-<b>Final Year Project · 2024</b>
-</p>
-
-<p>
-NLP-based healthcare assistant mapping patient symptoms to Ayurvedic
-treatment recommendations, developed as a full-stack Flask web application.
-</p>
-
-<p>
-<code>Python</code>
-<code>Flask</code>
-<code>NLP</code>
-<code>MySQL</code>
-<code>HTML/CSS</code>
-</p>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<h2>🏅 Certifications</h2>
-
-<table width="90%">
-<tr>
-<td align="center">
-
+&nbsp;
 <a href="https://www.credly.com/badges/ab99ed81-7943-477f-9c13-1d07116609af/public_url">
-<img src="https://img.shields.io/badge/RHCSA-Certified-EE0000?style=for-the-badge&logo=redhat&logoColor=white" height="34"/>
-</a>
-
-<a href="https://www.credly.com/badges/ab99ed81-7943-477f-9c13-1d07116609af/public_url">
-<img src="https://img.shields.io/badge/Verify-RHCSA%20on%20Credly-EE0000?style=for-the-badge&logo=credly&logoColor=white" height="34"/>
+<img src="https://img.shields.io/badge/CREDLY-111111?style=for-the-badge&logo=credly&logoColor=00FFB7" height="32"/>
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure-2025-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="34"/>
-
-<img src="https://img.shields.io/badge/Microsoft%20Learn-AI%20Skills%20Challenge-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="34"/>
-
-</td>
-</tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=900&color=00FFB7&center=true&vCenter=true&width=780&height=35&lines=RHEL+%E2%80%A2+OpenStack+%E2%80%A2+AWS+%E2%80%A2+OCI;Servers+%E2%80%A2+Automation+%E2%80%A2+Observability;Build+it+%E2%80%A2+Troubleshoot+it+%E2%80%A2+Automate+it" alt="Typing animation"/>
 
 </div>
 
 <br>
 
+> System.profile --decode
+
+$ ./init.sh
+
+> Name       : Utsav Kumar
+> Role       : System Engineer
+> Company    : Reliance Jio Infocomm Limited
+> Location   : Mumbai, India
+> Education  : BCA, Amity University Mumbai — CGPA 8.03
+> Status     : Open To Collabration
+
+> Currently
+    ├─ Building   : Linux & cloud infrastructure skills
+    ├─ Working    : RHEL administration + production operations
+    ├─ Exploring  : OpenStack + Prometheus + Grafana
+    └─ Learning   : Infrastructure automation + local AI systems
+
+> Interests
+    ├─ Enterprise Servers
+    ├─ Linux & System Administration
+    ├─ Cloud Infrastructure
+    ├─ Monitoring & Observability
+    └─ Automation & Troubleshooting
+
+> Track_record
+    ├─ Deployed   : 250+ Dell PowerEdge servers
+    ├─ Uptime     : 99%+ across production fleet
+    └─ Migrated   : 100+ merchants to cloud applications
+
+> Process exited (0)
+
 <div align="center">
 
-<h2>🛠️ Core Skills</h2>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%" alt="GitHub contribution animation"/>
+
+</div>
+
+> ls ./projects --build
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+☁️ OpenStack Private Cloud
+
+Private cloud infrastructure lab
+
+Multi-Node OpenStack environment on Ubuntu. Worked with core cloud services, service dependencies, virtual networking, identity and instance deployment.
+
+<img src="https://img.shields.io/badge/Nova-ED1944?style=flat-square&logo=openstack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Neutron-ED1944?style=flat-square&logo=openstack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Glance-ED1944?style=flat-square&logo=openstack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keystone-ED1944?style=flat-square&logo=openstack&logoColor=white"/>
+
+</td>
+<td width="50%" valign="top">
+
+📊 Infrastructure Observability
+
+Prometheus + Grafana
+
+Building a monitoring stack for Linux infrastructure with system metrics, dashboards, service visibility and alerting.
+
+Servers → Exporters → Prometheus
+                     ↓
+                  Grafana
+                     ↓
+              Dashboards / Alerts
+
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+🤖 Ollama / Local AI Infrastructure
+
+Ubuntu server · local model serving
+
+Exploring local LLM serving with Ollama and the operational side of running models on a server: services, API access, connectivity, resource usage and monitoring.
+
+<img src="https://img.shields.io/badge/Ollama-111111?style=flat-square&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+</td>
+<td width="50%" valign="top">
+
+🌿 Ayurvedic Recommendation System
+
+Final Year Project · 2024
+
+Full-stack Flask application that maps user symptoms to Ayurvedic treatment recommendations.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-111111?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Random coding joke"/>
+
+</div>
+
+> cat experience.log
+
+<table width="100%">
+<tr>
+<td valign="top">
+
+🖥️ System Engineer
+
+Reliance Jio Infocomm Limited
+via Skypro Technologies
+May 2026 — Present · Navi Mumbai
+
+RHEL 9.x server administration | Users, groups, permissions and access control | YUM / DNF package management | Storage, filesystems and disk management | Linux troubleshooting and network diagnostics | Bash-based operational automation | Production infrastructure support
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+🏢 Resident Engineer
+
+Reliance Jio Infocomm Limited
+via Pameesha Technologies Services
+Jul 2025 — May 2026 · Navi Mumbai
+
+Deployed 250+ Dell PowerEdge rack servers | Cabling, BIOS, iDRAC and OS provisioning | Improved commissioning time by approximately 25% | Break-fix and firmware maintenance | Sustained 99%+ uptime across production fleet | Reduced escalation resolution time by approximately 30% | On-site SPOC across Dell, Wipro and Jio teams | Maintained production SLAs with zero SLA breaches
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+☁️ Merchant Success Engineer
+
+Appstle Inc. · Remote
+Aug 2024 — Apr 2025 · Menlo Park, CA
+
+Migrated 100+ merchants to AWS-backed applications | Approximately 98% migration success | Resolved 40+ software issues using ClickUp workflows | Reduced defects by approximately 30% | Supported 250+ weekly merchant inquiries | Maintained 95%+ CSAT
+
+</td>
+</tr>
+</table>
+
+> tech --arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,redhat,aws,openstack,python,bash,docker,prometheus,grafana,mysql,flask,git,github,postman&theme=dark" width="90%" alt="Technology icons"/>
+
+<br><br>
 
 <img src="https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-<br>
-
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Virtualization-0D1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Automation-0D1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Networking-0D1117?style=for-the-badge"/>
 
 </div>
 
-<br>
-
-<div align="center">
-
-<h2>🔧 Infrastructure &amp; Administration</h2>
-
-<table width="90%">
+<table width="100%">
 <tr>
-<td width="50%" align="left">
+<td width="33%" valign="top">
 
-<h3>🐧 Operating Systems</h3>
+Operating Systems
 
-<ul>
-<li>Red Hat Enterprise Linux 9.x</li>
-<li>Ubuntu</li>
-<li>Linux</li>
-</ul>
-
-<h3>⚙️ System Administration</h3>
-
-<ul>
-<li>Users &amp; Groups</li>
-<li>Permissions &amp; ACLs</li>
-<li>YUM / DNF</li>
-<li>systemctl</li>
-<li>Storage &amp; Filesystems</li>
-<li>Disk Management</li>
-<li>Network Diagnostics</li>
-</ul>
+RHEL 9.x
+Ubuntu
+Linux
 
 </td>
+<td width="33%" valign="top">
 
-<td width="50%" align="left">
+System Administration
 
-<h3>🖥️ Enterprise Infrastructure</h3>
+Users / Groups
+Permissions / ACLs
+YUM / DNF
+systemctl
 
-<ul>
-<li>Dell PowerEdge</li>
-<li>iDRAC</li>
-<li>BIOS Configuration</li>
-<li>OS Provisioning</li>
-<li>Firmware Maintenance</li>
-<li>Production Support</li>
-<li>Incident Troubleshooting</li>
-</ul>
+</td>
+<td width="33%" valign="top">
+
+Enterprise Infrastructure
+
+Dell PowerEdge
+iDRAC
+BIOS
+Firmware
+OS Provisioning
 
 </td>
 </tr>
-</table>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<h2>☁️ Cloud &amp; DevOps</h2>
-
-<table width="90%">
 <tr>
-<td width="33%" align="center">
+<td valign="top">
 
-<h3>Cloud</h3>
+Cloud
 
-AWS<br>
-OCI<br>
-OpenStack<br>
+AWS
+OCI
+OpenStack
 Virtualization
 
 </td>
+<td valign="top">
 
-<td width="33%" align="center">
+Automation
 
-<h3>Automation</h3>
-
-Bash<br>
-Python<br>
-Scripting<br>
+Bash
+Python
+Scripting
 Health Checks
 
 </td>
+<td valign="top">
 
-<td width="33%" align="center">
+Observability
 
-<h3>Observability</h3>
-
-Prometheus<br>
-Grafana<br>
-Metrics<br>
+Prometheus
+Grafana
+Metrics
 Alerting
 
 </td>
 </tr>
 </table>
 
+> certs --list
+
+<div align="center">
+
+<a href="https://www.credly.com/badges/ab99ed81-7943-477f-9c13-1d07116609af/public_url">
+<img src="https://img.shields.io/badge/RHCSA-CERTIFIED-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
+</a>
+
+<img src="https://img.shields.io/badge/OCI-2025%20Data%20Science%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/OCI-2025%20Architect%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+<br><br>
+
+Red Hat Certified System Administrator (RHCSA) | Oracle Cloud Infrastructure 2025 — Data Science Professional | Oracle Cloud Infrastructure 2025 — Architect Associate
+
+</div>
+
+> currently --exploring
+
+┌──────────────────────────────────────────────────────────────┐
+│ → Advanced RHEL administration                               │
+│ → OpenStack cloud infrastructure                             │
+│ → Prometheus & Grafana                                       │
+│ → Infrastructure observability                               │
+│ → Linux automation                                           │
+│ → Bash & Python scripting                                    │
+│ → Cloud architecture                                         │
+│ → DevOps practices                                           │
+│ → Local AI / ML infrastructure                               │
+│ → Production troubleshooting & reliability                   │
+└──────────────────────────────────────────────────────────────┘
+
+> git --stats
+
+<div align="center">
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=UTSAVx03&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FFB7&fire=00FFB7&currStreakLabel=00FFB7" alt="GitHub contribution streak"/>
+
+</div>
+
+> ./connect.sh
+
+<div align="center">
+
+<a href="https://linkedin.com/in/utsav-kumar-cloud">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/UTSAVx03">
+<img src="https://img.shields.io/badge/GitHub-UTSAVx03-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:utsavkumar006@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<sub>Infrastructure • Automation • Cloud • Observability • Continuous Learning</sub>
+
 </div>
 
 <br>
 
 <div align="center">
 
-<h2>🔭 Currently Exploring</h2>
+system status: ONLINE   learning mode: ON   infrastructure: RUNNING
 
-<table>
-<tr>
-<td align="left">
-
-```text
-→ Advanced RHEL Administration
-→ OpenStack Cloud Infrastructure
-→ Prometheus & Grafana
-→ Infrastructure Observability
-→ Linux Automation
-→ Bash & Python Scripting
-→ Cloud Architecture
-→ DevOps Practices
-→ AI / ML Infrastructure
+</div>
